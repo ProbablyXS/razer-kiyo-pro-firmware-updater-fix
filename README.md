@@ -4,6 +4,16 @@
 
 This repository contains a software solution to fix and bypass the firmware update issues for the Razer Kiyo Pro (RZ19-0364) webcam. The provided tool addresses common problems encountered during the firmware update process, ensuring a smooth and successful update.
 
+## Showcases
+
+![image](https://github.com/user-attachments/assets/397c85b7-d960-48f6-893f-479249a16b47)
+![image](https://github.com/user-attachments/assets/adc6420c-f510-4c17-8fc9-7bd505c3f406)
+![image](https://github.com/user-attachments/assets/693cc713-fc66-42a7-8dd3-babc94b0709b)
+![image](https://github.com/user-attachments/assets/2c6147de-fbf4-423d-baa7-8aeae3944de3)
+![image](https://github.com/user-attachments/assets/0f72ec55-0cfb-48d4-8d2e-a973ffa6c958)
+
+
+
 ## Features
 
 - Set default lens distortion correction to 90 degrees
