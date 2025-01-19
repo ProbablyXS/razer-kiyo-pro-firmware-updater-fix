@@ -13,6 +13,10 @@ This repository contains a software solution to fix and bypass the firmware upda
 ![image](https://github.com/user-attachments/assets/0f72ec55-0cfb-48d4-8d2e-a973ffa6c958)
 
 
+##Infos
+
+- Authorize Windows to access the camera.
+- Close all Razer applications.
 
 ## Features
 
@@ -22,7 +26,7 @@ This repository contains a software solution to fix and bypass the firmware upda
 
 ## Usage
 
-1. Download the latest firmware update.
+1. Download the latest software here : https://github.com/ProbablyXS/razer-kiyo-pro-firmware-updater-fix/releases/tag/1.0.
 2. Launch the downloaded file. The updater will provide you with initial instructions before proceeding with the update. Once done, click on "NEXT".
 
 ## Additional Information
