@@ -32,3 +32,9 @@ This repository contains a software solution to fix and bypass the firmware upda
 ## Additional Information
 
 For more details and troubleshooting, visit the [Razer Support Page](https://rzr.to/VdKPPH) and the [Reddit discussion](https://www.reddit.com/r/razer/comments/17ku6zv/razer_kiyo_pro_rz190364_cant_update_firmware/).
+https://www.reddit.com/r/razer/comments/1i55d7a/razer_kiyo_pro_rz190364_cant_update_firmware/
+
+https://www.reddit.com/r/razer/comments/1i1ctgo/razer_kiyo_pro_wont_update_firmware_to_latest/
+https://www.reddit.com/r/razer/comments/122i676/issue_updating_the_driverfirmware_for_razer_kiyo/
+https://www.reddit.com/r/razer/comments/1gufi6u/razer_kiyo_pro_firmware_update/
+https://www.reddit.com/r/razer/comments/1gufi6u/razer_kiyo_pro_firmware_update/
