@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{079BF277-F079-4CB2-A043-1104D75A4AEF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>KiyoProCustomerFWU</RootNamespace>
+    <AssemblyName>KiyoProCustomerFWU</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <ApplicationIcon>KiyoProCustomerFWU.ico</ApplicationIcon>
+    <StartupObject>AITCustomerFWU.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CustomProgressBar">
+      <HintPath>..\..\..\Downloads\New folder (2)\CustomProgressBar.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AITCustomerFWU\appContextDevice.cs" />
+    <Compile Include="AITCustomerFWU\CLocalize.cs" />
+    <Compile Include="AITCustomerFWU\Common.cs" />
+    <Compile Include="AITCustomerFWU\DeviceInterface.cs" />
+    <Compile Include="AITCustomerFWU\DeviceListener.cs" />
+    <Compile Include="AITCustomerFWU\DeviceListenerEvent.cs" />
+    <Compile Include="AITCustomerFWU\eState.cs" />
+    <Compile Include="AITCustomerFWU\FormCongratulation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AITCustomerFWU\FormCongratulation.Designer.cs">
+      <DependentUpon>FormCongratulation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AITCustomerFWU\FormGuide.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AITCustomerFWU\FormGuide.Designer.cs">
+      <DependentUpon>FormGuide.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AITCustomerFWU\FormUpdater.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AITCustomerFWU\FormUpdater.Designer.cs">
+      <DependentUpon>FormUpdater.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AITCustomerFWU\Logger.cs" />
+    <Compile Include="AITCustomerFWU\PageIndex.cs" />
+    <Compile Include="AITCustomerFWU\Program.cs" />
+    <Compile Include="AITCustomerFWU\Properties\Resources.cs" />
+    <Compile Include="AITCustomerFWU\Properties\Settings.Designer.cs">
+      <DependentUpon>Settings.settings</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="AITCustomerFWU\Theme.cs" />
+    <Compile Include="AITCustomerFWU\UILinkLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="AITCustomerFWU\UpdateInfo.cs" />
+    <Compile Include="CustomerFirmwareUpdater\MyButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CustomShapedFormRegion\BitmapToRegion.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Video_Device.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AITCustomerFWU\FormCongratulation.resources" />
+    <EmbeddedResource Include="AITCustomerFWU\FormCongratulation.resx">
+      <DependentUpon>FormCongratulation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AITCustomerFWU\FormGuide.resources" />
+    <EmbeddedResource Include="AITCustomerFWU\FormGuide.resx">
+      <DependentUpon>FormGuide.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AITCustomerFWU\FormUpdater.resources" />
+    <EmbeddedResource Include="AITCustomerFWU\FormUpdater.resx">
+      <DependentUpon>FormUpdater.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AITCustomerFWU\Properties\Resources.resources" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="AITCustomerFWU\Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="app.manifest" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

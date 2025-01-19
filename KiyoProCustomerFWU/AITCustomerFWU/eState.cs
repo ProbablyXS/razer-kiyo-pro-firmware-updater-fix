@@ -1,0 +1,31 @@
+﻿using System;
+
+namespace AITCustomerFWU
+{
+	// Token: 0x02000012 RID: 18
+	public enum eState
+	{
+		// Token: 0x0400008F RID: 143
+		STATE_NULL,
+		// Token: 0x04000090 RID: 144
+		STATE_PROCESSING_DATA,
+		// Token: 0x04000091 RID: 145
+		STATE_DOWNLOADING_DATA,
+		// Token: 0x04000092 RID: 146
+		DEVRESET,
+		// Token: 0x04000093 RID: 147
+		STATE_PROCESSING_IQDATA,
+		// Token: 0x04000094 RID: 148
+		STATE_DOWNLOADING_IQDATA,
+		// Token: 0x04000095 RID: 149
+		IQDEVRESET,
+		// Token: 0x04000096 RID: 150
+		STATE_SUCCESS,
+		// Token: 0x04000097 RID: 151
+		STATE_FAILED,
+		// Token: 0x04000098 RID: 152
+		STATE_LAST = 8,
+		// Token: 0x04000099 RID: 153
+		NUM_STATES
+	}
+}

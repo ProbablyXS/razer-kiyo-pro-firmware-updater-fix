@@ -1,0 +1,13 @@
+D:\Users\Administrator\Desktop\New folder (2)\KiyoProCustomerFWU\bin\Debug\KiyoProCustomerFWU.exe
+D:\Users\Administrator\Desktop\New folder (2)\KiyoProCustomerFWU\bin\Debug\KiyoProCustomerFWU.pdb
+D:\Users\Administrator\Desktop\New folder (2)\KiyoProCustomerFWU\bin\Debug\CustomProgressBar.dll
+D:\Users\Administrator\Desktop\New folder (2)\KiyoProCustomerFWU\obj\x86\Debug\KiyoProCustomerFWU.csproj.CoreCompileInputs.cache
+D:\Users\Administrator\Desktop\New folder (2)\KiyoProCustomerFWU\obj\x86\Debug\KiyoProCustomerFWU.csproj.CopyComplete
+D:\Users\Administrator\Desktop\New folder (2)\KiyoProCustomerFWU\obj\x86\Debug\KiyoProCustomerFWU.exe
+D:\Users\Administrator\Desktop\New folder (2)\KiyoProCustomerFWU\obj\x86\Debug\KiyoProCustomerFWU.pdb
+D:\Users\Administrator\Desktop\New folder (2)\KiyoProCustomerFWU\obj\x86\Debug\KiyoProCustomerFWU.Properties.Resources.resources
+D:\Users\Administrator\Desktop\New folder (2)\KiyoProCustomerFWU\obj\x86\Debug\KiyoProCustomerFWU.csproj.GenerateResource.cache
+D:\Users\Administrator\Desktop\New folder (2)\KiyoProCustomerFWU\obj\x86\Debug\AITCustomerFWU.FormUpdater.resources
+D:\Users\Administrator\Desktop\New folder (2)\KiyoProCustomerFWU\obj\x86\Debug\AITCustomerFWU.FormGuide.resources
+D:\Users\Administrator\Desktop\New folder (2)\KiyoProCustomerFWU\obj\x86\Debug\AITCustomerFWU.FormCongratulation.resources
+D:\Users\Administrator\Desktop\New folder (2)\KiyoProCustomerFWU\obj\x86\Debug\KiyoProCustomerFWU.csproj.AssemblyReference.cache
