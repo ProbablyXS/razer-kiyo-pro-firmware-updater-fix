@@ -13,7 +13,7 @@ This repository contains a software solution to fix and bypass the firmware upda
 
 
 
-##Infos
+## Infos
 
 - Authorize Windows to access the camera.
 - Close all Razer applications.
