@@ -10,6 +10,7 @@ This repository contains a software solution to fix and bypass the firmware upda
 ![image](https://github.com/user-attachments/assets/458d4429-4f5c-4bb7-8756-67fe1412fffa)
 ![image](https://github.com/user-attachments/assets/29e7ce55-b877-47c2-adce-044a4eece766)
 ![image](https://github.com/user-attachments/assets/ea22b462-0afe-4eb7-a717-fa116079accf)
+![image](https://github.com/user-attachments/assets/9dbbd23f-16bd-48ba-baaa-476c11ef7930)
 
 
 
