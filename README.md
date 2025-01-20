@@ -7,10 +7,9 @@ This repository contains a software solution to fix and bypass the firmware upda
 ## Showcases
 
 ![image](https://github.com/user-attachments/assets/397c85b7-d960-48f6-893f-479249a16b47)
-![image](https://github.com/user-attachments/assets/adc6420c-f510-4c17-8fc9-7bd505c3f406)
-![image](https://github.com/user-attachments/assets/693cc713-fc66-42a7-8dd3-babc94b0709b)
-![image](https://github.com/user-attachments/assets/2c6147de-fbf4-423d-baa7-8aeae3944de3)
-![image](https://github.com/user-attachments/assets/e97c448f-7ecd-4ac1-8719-639b7cb6bf9c)
+![image](https://github.com/user-attachments/assets/458d4429-4f5c-4bb7-8756-67fe1412fffa)
+![image](https://github.com/user-attachments/assets/29e7ce55-b877-47c2-adce-044a4eece766)
+![image](https://github.com/user-attachments/assets/ea22b462-0afe-4eb7-a717-fa116079accf)
 
 
 
