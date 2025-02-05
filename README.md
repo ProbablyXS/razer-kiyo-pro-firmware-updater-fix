@@ -1,6 +1,8 @@
 <h2>🚀 Description</h2>
 <p>Ce projet propose une solution logicielle pour corriger et contourner les problèmes de mise à jour du firmware de la webcam <strong>Razer Kiyo Pro (RZ19-0364)</strong>. Cet outil garantit un processus de mise à jour fluide et efficace, évitant les erreurs fréquemment rencontrées.</p>
 
+Note: Bien que certaines théories suggèrent que Razer a intentionnellement créé une obsolescence programmée dans leur logiciel, il est important de comprendre que ces affirmations nécessitent des preuves concrètes. Il est donc essentiel de signaler tout problème récurrent à l'assistance de Razer pour obtenir une solution appropriée.
+
 <hr>
 
 <h2>🎯 Fonctionnalités principales</h2>
